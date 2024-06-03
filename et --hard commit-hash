@@ -1,0 +1,24 @@
+[33mcommit d8ddef6c6afe93e8c9ccd1f87b31c22263804d21[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 9878c57 07f755f
+Author: LiliyaLexx <liliya.fedyurina@gmail.com>
+Date:   Mon Jun 3 16:14:07 2024 -0700
+
+    Resolved merge conflicts
+
+[33mcommit 9878c57e646cfe97c1f2661b6cbdd3de4f5842d3[m
+Author: LiliyaLexx <liliya.fedyurina@gmail.com>
+Date:   Mon Jun 3 16:06:00 2024 -0700
+
+    background added
+
+[33mcommit 07f755f6ec370d71c2509e2bdd8a7db27521fcd8[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Liliyalexx <liliya.fedyurina@gmail.com>
+Date:   Sun Jun 2 21:59:04 2024 -0700
+
+    modules added
+
+[33mcommit 0005675e768ea0860e0de0d2ef33d8b67458ee53[m
+Author: Liliyalexx <liliya.fedyurina@gmail.com>
+Date:   Sun Jun 2 20:21:24 2024 -0700
+
+    script added
