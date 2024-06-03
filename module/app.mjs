@@ -1,6 +1,7 @@
 import { getPokemonList, getPokemonByName } from './api.mjs';
 import { displayPokemon, showError } from './ui.mjs';
 
+
 let offset = 0;
 const limit = 20;
 
