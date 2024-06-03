@@ -3,10 +3,24 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src = "./script/script.mjs"></script>
-  <title>Document</title>
+  <!-- <script src = "./module/app.mjs"></script> -->
+  <link rel="stylesheet" href="./style/style.css">
+  <title>Pokémon Search</title>
 </head>
+
 <body>
-  
+   <header>
+     <h1>Pokémon Gallery</h1>
+     <input type="text" id="search" placeholder="Search Pokémon...">
+     <button id="searchBtn">Search</button>
+   </header>
+   <main id="gallery"></main>
+   <footer>
+     <button id="prevBtn">Previous</button>
+     <button id="nextBtn">Next</button>
+   </footer>
+
+  <script type="module" src="./module/app.mjs"></script>
+
 </body>
 </html>
